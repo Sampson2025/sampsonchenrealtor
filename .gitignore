@@ -1,0 +1,5 @@
+.DS_Store
+assets/listings/*.heic
+index.before-listing-update.html
+index.fixed.html
+index.updated.html
